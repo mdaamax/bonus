@@ -1,0 +1,11 @@
+.parent {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+span{
+    color: red;
+}
+btn btn-link{
+    color: red; !important;
+}
